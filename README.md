@@ -1,5 +1,8 @@
 # Research Topics
 
+Open Computer Vision
+https://www.pyimagesearch.com/start-here/
+
 Serverless event driven cloud computing 
 https://github.com/quantum-fusion/serverless/tree/master
 
