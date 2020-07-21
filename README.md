@@ -1,9 +1,6 @@
 # Research Topics
 
-Open Computer Vision
-https://www.pyimagesearch.com/start-here/
-
-AI Deep Learning Speech Research
+AI Deep Learning and ML Research
 https://github.com/quantum-fusion/AI-deeplearning
 
 Serverless event driven cloud computing 
