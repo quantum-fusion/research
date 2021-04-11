@@ -9,7 +9,8 @@ https://github.com/quantum-fusion/serverless/tree/master
 Cloud security, encryption IETF, NIST, standards
 https://github.com/quantum-fusion/IETF-specifications
 
-Cloud Mesh Standards with Kubernetes
+Cloud Native Computing and Mesh Standards with Kubernetes
+https://landscape.cncf.io
 https://csrc.nist.gov/publications/detail/sp/800-204a/final
 
 NIST publications search 
