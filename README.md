@@ -10,6 +10,7 @@ Cloud security, encryption IETF, NIST, standards
 https://github.com/quantum-fusion/IETF-specifications
 
 Cloud Native Computing and Mesh Standards with Kubernetes
+
 https://landscape.cncf.io
 
 https://csrc.nist.gov/publications/detail/sp/800-204a/final
