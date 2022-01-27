@@ -30,6 +30,9 @@ https://csrc.nist.gov/Projects/risk-management
 Awesome cloud security resources
 https://github.com/4ndersonLin/awesome-cloud-security
 
+Istio and Envoy / NIST Tetrate resources
+https://github.com/quantum-fusion/tetrate
+
 Ultimate DevSecOps library
 https://github.com/quantum-fusion/devOps/blob/main/Readme.md
 
