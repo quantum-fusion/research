@@ -27,6 +27,9 @@ https://csrc.nist.gov/publications/conference-paper
 NIST Risk Management Framework
 https://csrc.nist.gov/Projects/risk-management
 
+Awesome cloud security resources
+https://github.com/4ndersonLin/awesome-cloud-security
+
 Ultimate DevSecOps library
 https://github.com/quantum-fusion/devOps/blob/main/Readme.md
 
