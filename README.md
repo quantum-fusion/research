@@ -12,8 +12,8 @@ https://github.com/quantum-fusion/IETF-specifications
 Cloud Native Computing Roadmap 
 https://landscape.cncf.io
 
-NIST Mesh networking standards for Kubernetes 
-https://csrc.nist.gov/publications/detail/sp/800-204a/final
+Azure architecture 
+https://github.com/quantum-fusion/Azure
 
 NIST publications search 
 https://csrc.nist.gov/publications/search?sortBy-lg=relevance&viewMode-lg=brief&ipp-lg=25&topicsMatch-lg=ANY&controlsMatch-lg=ANY
@@ -27,17 +27,17 @@ https://csrc.nist.gov/publications/conference-paper
 NIST Risk Management Framework
 https://csrc.nist.gov/Projects/risk-management
 
-Azure architecture 
-https://github.com/quantum-fusion/Azure
+NIST Mesh networking standards for Kubernetes 
+https://csrc.nist.gov/publications/detail/sp/800-204a/final
+
+Istio and Envoy / NIST Tetrate resources
+https://github.com/quantum-fusion/tetrate
 
 AWS Security training
 https://bit.ly/32OdiKA
 
 Awesome cloud security resources
 https://github.com/4ndersonLin/awesome-cloud-security
-
-Istio and Envoy / NIST Tetrate resources
-https://github.com/quantum-fusion/tetrate
 
 Ultimate DevSecOps library
 https://github.com/quantum-fusion/devOps/blob/main/Readme.md
