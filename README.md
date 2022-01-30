@@ -1,19 +1,13 @@
 # Research Topics
 
-AI Deep Learning and ML Research
-https://github.com/quantum-fusion/AI-deeplearning
-
-Serverless event driven cloud computing 
-https://github.com/quantum-fusion/serverless/tree/master
-
-Cloud security, encryption IETF, NIST, standards
-https://github.com/quantum-fusion/IETF-specifications
-
 Cloud Native Computing Roadmap 
 https://landscape.cncf.io
 
 Azure architecture 
 https://github.com/quantum-fusion/Azure
+
+Cloud security, encryption IETF, NIST, standards
+https://github.com/quantum-fusion/IETF-specifications
 
 NIST publications search 
 https://csrc.nist.gov/publications/search?sortBy-lg=relevance&viewMode-lg=brief&ipp-lg=25&topicsMatch-lg=ANY&controlsMatch-lg=ANY
@@ -39,7 +33,13 @@ https://bit.ly/32OdiKA
 Awesome cloud security resources
 https://github.com/4ndersonLin/awesome-cloud-security
 
+Serverless event driven cloud computing 
+https://github.com/quantum-fusion/serverless/tree/master
+
 Ultimate DevSecOps library
 https://github.com/quantum-fusion/devOps/blob/main/Readme.md
+
+AI Deep Learning and ML Research
+https://github.com/quantum-fusion/AI-deeplearning
 
 
