@@ -30,6 +30,9 @@ https://csrc.nist.gov/Projects/risk-management
 Azure architecture 
 https://github.com/quantum-fusion/Azure
 
+AWS Security training
+https://bit.ly/32OdiKA
+
 Awesome cloud security resources
 https://github.com/4ndersonLin/awesome-cloud-security
 
