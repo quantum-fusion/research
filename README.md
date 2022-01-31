@@ -6,6 +6,9 @@ https://landscape.cncf.io
 Azure architecture 
 https://github.com/quantum-fusion/Azure
 
+NIST Cloud Security Working group 
+https://github.com/quantum-fusion/NIST-CloudSecurity/
+
 Cloud security, encryption IETF, NIST, standards
 https://github.com/quantum-fusion/IETF-specifications
 
