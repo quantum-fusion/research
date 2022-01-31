@@ -42,6 +42,9 @@ https://github.com/quantum-fusion/serverless/tree/master
 Ultimate DevSecOps library
 https://github.com/quantum-fusion/devOps/blob/main/Readme.md
 
+DevOps with Terraform
+https://github.com/quantum-fusion/terraform/
+
 AI Deep Learning and ML Research
 https://github.com/quantum-fusion/AI-deeplearning
 
