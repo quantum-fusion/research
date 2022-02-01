@@ -3,6 +3,9 @@
 #Superman
 ![superman](https://tinyurl.com/yadukh3x)
 
+Researchers achieve milestone on path toward nuclear quantum fusion energy
+https://bit.ly/3gaSZda
+
 Cloud Native Computing Roadmap 
 https://landscape.cncf.io
 
@@ -53,8 +56,3 @@ https://github.com/quantum-fusion/AI-deeplearning
 
 DevOps - General Zod 
 https://github.com/quantum-fusion/devOps
-
-Researchers achieve milestone on path toward nuclear quantum fusion energy
-https://bit.ly/3gaSZda
-
-
