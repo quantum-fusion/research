@@ -52,6 +52,7 @@ AI Deep Learning and ML Research
 https://github.com/quantum-fusion/AI-deeplearning
 
 DevOps - General Zod 
+https://github.com/quantum-fusion/devOps
 
 Researchers achieve milestone on path toward nuclear quantum fusion energy
 https://bit.ly/3gaSZda
