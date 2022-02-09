@@ -3,8 +3,11 @@
 #Superman
 ![superman](https://tinyurl.com/yadukh3x)
 
-Researchers achieve milestone on path toward nuclear quantum fusion energy
+US Researchers achieve milestone on path toward nuclear quantum fusion energy, dated January 27, 2022
 https://bit.ly/3gaSZda
+
+British Researchers achieve major breakthrough on nuclear fusion energy, dated February 9, 2022
+https://www.bbc.com/news/science-environment-60312633
 
 Cloud Native Computing Roadmap 
 https://landscape.cncf.io
