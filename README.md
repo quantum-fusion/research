@@ -3,7 +3,7 @@
 #Superman
 ![superman](https://tinyurl.com/yadukh3x)
 
-# Bill Gates And Jeff Bezos Back Startup For Unlimited Clean Energy Via Nuclear Fusion, dated February 21, 2021 
+#4 Bill Gates And Jeff Bezos Back Startup For Unlimited Clean Energy Via Nuclear Fusion, dated February 21, 2021 
 https://www.indiatimes.com/technology/news/bill-gates-and-jeff-bezos-back-startup-for-unlimited-clean-energy-via-nuclear-fusion-534729.html
 
 # Nuclear energy: Fusion plant backed by Jeff Bezos to be built in UK - BBC News, dated June 17, 2021
