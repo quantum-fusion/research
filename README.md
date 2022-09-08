@@ -18,6 +18,13 @@ https://www.bbc.com/news/science-environment-60312633
 #### Cloud Native Computing Roadmap 
 https://landscape.cncf.io
 
+#### REST API design guidelines in the Wild 
+ https://bit.ly/3RtRfwK
+ https://dret.github.io/guidelines/
+ https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm
+ https://twobithistory.org/2020/06/28/rest.html
+ 
+
 #### Azure architecture 
 https://github.com/quantum-fusion/Azure
 
